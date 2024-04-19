@@ -13,8 +13,7 @@ with information stored in databases.
 
 The following video shows an example of the application being used from
 the command line:
-
-
+[![Video Demo](https://img.youtube.com/vi/bzPL_jB5nSo/0.jpg)](https://www.youtube.com/watch?v=bzPL_jB5nSo)
 
 
 **Collaboration and Help**:
