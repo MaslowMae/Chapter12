@@ -1,8 +1,11 @@
 {
   "dependencies": {
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.6",
     "mysql": "^2.18.1",
-    "mysql2": "^3.9.3"
+    "mysql2": "^3.9.3",
+    "require": "^0.4.4",
+    "sequelize": "^6.37.3"
   }
 }
